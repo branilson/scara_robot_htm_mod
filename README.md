@@ -16,11 +16,14 @@ This project is based on the original design from Dejan Nedelkovski of the porta
 - small modifications in the printed parts in order to avoid print supports, reduce post-processing, and facilitate the assembling process
 - Added all nuts and bolts in the assembly
 
-##ToDo:
+## ToDo:
 
-- Make a FreeCAD final assembly
-- Embed a cement/clay extruder to transform it on a 3D printer
 - Reduce the size of the base part
+- Make a FreeCAD final assembly
+- Create an electrical documentation
+- Embed a cement/clay extruder to transform it on a 3D printer
+- Add magnetic encoders to the stepper motors
+- Code an automatic learn functionality based on the closed loop motor controls
 - Port code to STM32
 - Develop a simulation in Gazebo/Ignition
 - Develop a ROS2 controller node
@@ -28,4 +31,5 @@ This project is based on the original design from Dejan Nedelkovski of the porta
 ## Final considerations
 
 Thanks to Dejan Nedelkovski for the amazing work.
+
 Suggestions and collaboration do enhance this version and developing the pending features are welcome.
