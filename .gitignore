@@ -1,0 +1,133 @@
+#
+# Scara robot HTM modified version
+#
+# Based on the original design from Dejan Nedelkovski from the portal www.howtomechatronics.com.
+# Copyright (C) 2021 Branilson Luiz
+#
+# Our automatic versioning scheme generates the following file
+# NEVER put it in the repository
+_Version.h
+
+#
+# OS
+#
+applet/
+*.DS_Store
+
+#FreeCAD
+*.FCStd1
+
+#
+# Misc
+#
+*~
+*.orig
+*.rej
+*.bak
+*.idea
+*.s
+*.i
+*.ii
+*.swp
+tags
+
+#
+# C++
+#
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.ino.cpp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+
+#
+# C
+#
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+
+# PlatformIO files/dirs
+.pio*
+.pioenvs
+.piolibdeps
+lib/readme.txt
+
+#Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+Release/
+Debug/
+__vm/
+.vs/
+vc-fileutils.settings
+
+#VScode
+.vscode
+.vscode/c_cpp_properties.json
+
+#cmake
+CMakeLists.txt
+Marlin/CMakeLists.txt
+CMakeListsPrivate.txt
+
+#CLion
+cmake-build-*
+.vscode/launch.json
