@@ -1,5 +1,5 @@
 999
-FreeCAD v0.19 24276 (Git)
+FreeCAD v0.19 
   0
 SECTION
   2
@@ -219,7 +219,7 @@ TABLE
   2
 LAYER
   5
-A09
+A1E
 330
 0
 100
@@ -229,9 +229,9 @@ AcDbSymbolTable
   0
 LAYER
   5
-A0A
+A1F
 330
-A09
+A1E
 100
 AcDbSymbolTableRecord
 100
@@ -247,9 +247,9 @@ CONTINUOUS
   0
 LAYER
   5
-A0B
+A20
 330
-A09
+A1E
 100
 AcDbSymbolTableRecord
 100
@@ -265,15 +265,15 @@ CONTINUOUS
   0
 LAYER
   5
-A0C
+A21
 330
-A09
+A1E
 100
 AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-Sketch001
+Shape2DView
  70
     0
  62
@@ -699,7 +699,385 @@ A02
 100
 AcDbEntity
   8
-Sketch001
+Shape2DView
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+60
+  0
+CIRCLE
+  5
+A09
+330
+A02
+100
+AcDbEntity
+  8
+Shape2DView
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+19
+  0
+CIRCLE
+  5
+A0A
+330
+A02
+100
+AcDbEntity
+  8
+Shape2DView
+100
+AcDbCircle
+ 10
+33
+ 20
+0
+ 40
+8
+  0
+CIRCLE
+  5
+A0B
+330
+A02
+100
+AcDbEntity
+  8
+Shape2DView
+100
+AcDbCircle
+ 10
+-33.5876
+ 20
+33.5876
+ 40
+4
+  0
+CIRCLE
+  5
+A0C
+330
+A02
+100
+AcDbEntity
+  8
+Shape2DView
+100
+AcDbCircle
+ 10
+-33.5876
+ 20
+-33.5876
+ 40
+4
+  0
+CIRCLE
+  5
+A0D
+330
+A02
+100
+AcDbEntity
+  8
+Shape2DView
+100
+AcDbCircle
+ 10
+33.5876
+ 20
+-33.5876
+ 40
+4
+  0
+CIRCLE
+  5
+A0E
+330
+A02
+100
+AcDbEntity
+  8
+Shape2DView
+100
+AcDbCircle
+ 10
+33.5876
+ 20
+33.5876
+ 40
+4
+  0
+CIRCLE
+  5
+A0F
+330
+A02
+100
+AcDbEntity
+  8
+Shape2DView
+100
+AcDbCircle
+ 10
+-43.4871
+ 20
+23.6881
+ 40
+2.1
+  0
+CIRCLE
+  5
+A10
+330
+A02
+100
+AcDbEntity
+  8
+Shape2DView
+100
+AcDbCircle
+ 10
+-23.6881
+ 20
+43.4871
+ 40
+2.1
+  0
+CIRCLE
+  5
+A11
+330
+A02
+100
+AcDbEntity
+  8
+Shape2DView
+100
+AcDbCircle
+ 10
+23.6881
+ 20
+-43.4871
+ 40
+2.1
+  0
+CIRCLE
+  5
+A12
+330
+A02
+100
+AcDbEntity
+  8
+Shape2DView
+100
+AcDbCircle
+ 10
+43.4871
+ 20
+-23.6881
+ 40
+2.1
+  0
+CIRCLE
+  5
+A13
+330
+A02
+100
+AcDbEntity
+  8
+Shape2DView
+100
+AcDbCircle
+ 10
+23.6881
+ 20
+43.4871
+ 40
+2.1
+  0
+CIRCLE
+  5
+A14
+330
+A02
+100
+AcDbEntity
+  8
+Shape2DView
+100
+AcDbCircle
+ 10
+43.4871
+ 20
+23.6881
+ 40
+2.1
+  0
+CIRCLE
+  5
+A15
+330
+A02
+100
+AcDbEntity
+  8
+Shape2DView
+100
+AcDbCircle
+ 10
+-43.4871
+ 20
+-23.6881
+ 40
+2.1
+  0
+CIRCLE
+  5
+A16
+330
+A02
+100
+AcDbEntity
+  8
+Shape2DView
+100
+AcDbCircle
+ 10
+-23.6881
+ 20
+-43.4871
+ 40
+2.1
+  0
+CIRCLE
+  5
+A17
+330
+A02
+100
+AcDbEntity
+  8
+Shape2DView
+100
+AcDbCircle
+ 10
+49.52
+ 20
+0
+ 40
+2.1
+  0
+CIRCLE
+  5
+A18
+330
+A02
+100
+AcDbEntity
+  8
+Shape2DView
+100
+AcDbCircle
+ 10
+-49.52
+ 20
+0
+ 40
+2.1
+  0
+CIRCLE
+  5
+A19
+330
+A02
+100
+AcDbEntity
+  8
+Shape2DView
+100
+AcDbCircle
+ 10
+0
+ 20
+49.52
+ 40
+2.1
+  0
+CIRCLE
+  5
+A1A
+330
+A02
+100
+AcDbEntity
+  8
+Shape2DView
+100
+AcDbCircle
+ 10
+0
+ 20
+-49.52
+ 40
+2.1
+  0
+CIRCLE
+  5
+A1B
+330
+A02
+100
+AcDbEntity
+  8
+Shape2DView
+100
+AcDbCircle
+ 10
+24.74
+ 20
+-14.3067
+ 40
+2.1
+  0
+CIRCLE
+  5
+A1C
+330
+A02
+100
+AcDbEntity
+  8
+Shape2DView
+100
+AcDbCircle
+ 10
+24.74
+ 20
+14.3067
+ 40
+2.1
+  0
+CIRCLE
+  5
+A1D
+330
+A02
+100
+AcDbEntity
+  8
+Shape2DView
 100
 AcDbCircle
  10
