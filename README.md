@@ -3,6 +3,9 @@
 This project is based on the original design from Dejan Nedelkovski of the portal www.howtomechatronics.com.
 
 
+## Tools used/needed to use this project:
+
+- FreeCAD 0.19+ with Fasteners and A2Plus workbenches
 
 ## List of modifications:
 
@@ -15,11 +18,11 @@ This project is based on the original design from Dejan Nedelkovski of the porta
 - Replacement of some printed plates with PC machined parts in order to make construction faster
 - small modifications in the printed parts in order to avoid print supports, reduce post-processing, and facilitate the assembling process
 - Added all nuts and bolts in the assembly
+- Reduce the size of the base part
+- Make a new FreeCAD final assembly
 
 ## ToDo:
 
-- Reduce the size of the base part
-- Make a FreeCAD final assembly
 - Create an electrical documentation
 - Embed a cement/clay extruder to transform it on a 3D printer
 - Add magnetic encoders to the stepper motors
